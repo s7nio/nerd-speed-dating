@@ -2,7 +2,7 @@
 
 Inspired by cccamp2015 @hobelschlunzen.
 
-Idea: electrinic supported speed dating
+Idea: electronic supported speed dating
 - organize
 - management
 - execution
