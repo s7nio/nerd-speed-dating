@@ -9,5 +9,5 @@ Idea: electrinic supported speed dating
 - ...
 - root project, which contains web, ios, ... app
 - technology choice ?
-- architecture choise ?
+- architecture choice ?
 - open source license ... ?
