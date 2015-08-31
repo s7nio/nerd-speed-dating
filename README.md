@@ -1,6 +1,6 @@
 # nerd-speed-dating
 
-inspired by cccamp2015 @hobelschlunzen.
+Inspired by cccamp2015 @hobelschlunzen.
 
 Idea: electrinic supported speed dating
 - organize
