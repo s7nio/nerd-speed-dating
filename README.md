@@ -7,3 +7,6 @@ Idea: electrinic supported speed dating
 - management
 - execution
 - ...
+- root project, which contains web, ios, ... app
+- technology choice ?
+- architecture choise ?
