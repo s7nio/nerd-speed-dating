@@ -10,3 +10,4 @@ Idea: electrinic supported speed dating
 - root project, which contains web, ios, ... app
 - technology choice ?
 - architecture choise ?
+- open source license ... ?
